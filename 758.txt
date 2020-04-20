@@ -1,0 +1,66 @@
+
+
+{
+  "application": {
+	"id": "dc1e886b-f37b-4a6b-9a84-866861a09fd1"
+  },
+  "opportunity": {},
+  "lead": {
+	"baseGender": {
+  	"nomalizeData": [
+    		"Nam"
+  		],
+  		"rawData": "male"
+	},
+	"baseSourceInput": {
+  		"nomalizeData": [
+    			"Online"
+  		],
+  	"rawData": [
+    		"Online"	
+  		]
+	},
+	"baseNote": {
+  		"nomalizeData": "Tiềm năng",
+  		"rawData": "Tiềm năng"
+	},
+	"baseEmail": {},
+	"cf_string_nhom_san_pham": {
+  		"nomalizeData": "testContact",
+  		"rawData": "testContact"
+	},
+	"basePhonenumber": {
+  		"nomalizeData": "333000115",
+  		"rawData": "333000115"
+	},
+	"baseAddress": {
+  		"nomalizeData": "Hai Bà Trưng upload",
+  		"rawData": "Hai Bà Trưng upload"
+	},
+	"cf_enum_trang_thai_kh_sau_khi_telesale_lien_he": {
+  		"nomalizeData": "",
+  		"rawData": ""
+	},
+	"cf_string_hoc": {},
+	"id": {
+  	"nomalizeData": "1111111-222222-22222-4444-1111111",
+  	"rawData": "1111111-222222-22222-4444-1111111"
+	},
+	"cf_string_nam_sinh_cua_con": {
+  	"nomalizeData": "Chưa đi học",
+  	"rawData": "Chưa đi học"
+	},
+	"baseName": {
+  	"nomalizeData": "Hai chatbot 15",
+  	"rawData": "Hai chatbot 15"
+	},
+	"cf_string_ten_con": {
+  	"nomalizeData": "Hai con 15",
+  	"rawData": "Hai con 15"
+	},
+	"fbpsId": {
+  	"nomalizeData": "hai_test_chatbot_0_15_2004",
+  	"rawData": "hai_test_chatbot_0_15_2004"
+	}
+  }
+}
